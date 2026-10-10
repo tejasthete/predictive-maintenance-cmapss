@@ -257,7 +257,7 @@ NASA C-MAPSS (Commercial Modular Aero-Propulsion System Simulation) turbofan eng
 
 ## 👨‍💻 Author
 
-**Prajwal Thete**
+**Tejas Thete**
 
 B.Tech — Artificial Intelligence & Data Science
 
